@@ -54,6 +54,6 @@ instance/
 .DS_Store
 
 data/processed/
-data/raw/
+# data/raw/
 checkpoints/
 data/systematic_reviews_20k.csv
