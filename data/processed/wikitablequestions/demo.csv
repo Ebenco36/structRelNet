@@ -1,0 +1,6 @@
+id,path,meta
+wtq_test_00000,test_tables/wtq_test_00000.csv,"{'question': 'how many total orbit pairs are there?', 'answers': ['9']}"
+wtq_test_00001,test_tables/wtq_test_00001.csv,"{'question': 'the two level 6 seasons were 2012/13 and what other season?', 'answers': ['2013/14']}"
+wtq_test_00002,test_tables/wtq_test_00002.csv,"{'question': 'which year had an average population of less than 38?', 'answers': ['2006']}"
+wtq_test_00003,test_tables/wtq_test_00003.csv,"{'question': 'how many awards were handed out in 2004?', 'answers': ['10']}"
+wtq_test_00004,test_tables/wtq_test_00004.csv,"{'question': 'what was the most consecutive losses for the mercury in this season?', 'answers': ['3']}"

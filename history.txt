@@ -1,0 +1,6 @@
+File	Description
+base_inferer.py	Abstract base class for schema inference
+heuristics.py	Functions to detect data types (numeric, date, text, etc.)
+infer_schema.py	Implements SchemaInferer using heuristics and CanonicalTable
+schema_inferer.py	DataFrame-based standalone schema runner
+run_schema_inference.py	CLI script to infer schema for a folder of tables

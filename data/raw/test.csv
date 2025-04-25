@@ -1,0 +1,20 @@
+review_id,title,year,journal,n_studies,population,intervention,comparator,outcome,effect_size,ci_lower,ci_upper,quality_rating,database_source
+SR00001,Can contain cultural white.,2004,Science,31,Elderly,metformin,low dose,mortality,0.75,0.58,0.88,Low,PubMed
+SR00002,Decade painting meeting air wall.,2015,Nature,63,Elderly,placebo,none,infection rate,0.82,0.61,0.93,Critically Low,PubMed
+SR00003,Then more nation share always.,2020,BMJ,51,Adults,metformin,cephalosporin,smoking cessation,1.05,0.99,1.24,Moderate,Web of Science
+SR00004,To improve travel.,2024,JAMA,44,Children,ACE inhibitors,standard care,weight loss,1.87,1.65,2.03,High,PubMed
+SR00005,Blue throw lot American produce try keep.,2011,BMJ,91,Diabetics,statins,cephalosporin,mortality,0.86,0.66,1.15,Critically Low,Web of Science
+SR00006,Understand debate box something result beyond.,2008,Science,22,Elderly,metformin,no therapy,symptom reduction,1.45,1.26,1.63,Critically Low,Web of Science
+SR00007,Line among television senior idea news once rock.,2015,BMJ,33,Children,behavioral therapy,low dose,smoking cessation,1.07,1.01,1.33,Moderate,PubMed
+SR00008,Seem age return his.,2007,Lancet,46,Pregnant women,metformin,no therapy,symptom reduction,0.82,0.73,1.0,Critically Low,Cochrane
+SR00009,Rock clear answer.,2022,PLOS ONE,51,ICU patients,placebo,none,hospitalization,0.81,0.63,1.0,Low,Embase
+SR00010,Message hold rather product would now.,2009,NEJM,68,Adults,mRNA vaccine,none,symptom reduction,1.18,1.0,1.43,Low,LOVE
+SR00011,Hope chair traditional question doctor.,2019,NEJM,45,Pregnant women,metformin,placebo,mortality,1.04,0.87,1.24,Moderate,Embase
+SR00012,Happy first charge.,2002,Nature,77,Smokers,metformin,cephalosporin,hospitalization,0.66,0.54,0.91,Critically Low,Cochrane
+SR00013,Far machine decide suffer investment.,2023,Science,16,ICU patients,ACE inhibitors,low dose,hospitalization,0.99,0.87,1.06,Low,Web of Science
+SR00014,Drug seem individual age difficult us owner.,2002,Lancet,40,Elderly,mRNA vaccine,none,hospitalization,0.77,0.55,0.9,High,PubMed
+SR00015,Expert Republican certain.,2006,Science,73,ICU patients,placebo,cephalosporin,weight loss,1.55,1.28,1.68,Low,LOVE
+SR00016,Across entire answer few arrive draw kind.,2023,NEJM,64,Adults,ACE inhibitors,standard care,weight loss,1.09,0.99,1.21,Low,Ovid
+SR00017,Catch probably leave trial street class positive.,2010,Nature,18,Diabetics,behavioral therapy,standard care,weight loss,1.06,1.0,1.34,High,Cochrane
+SR00018,Population concern market condition left true.,2007,NEJM,20,Smokers,metformin,low dose,mortality,1.19,1.12,1.42,Low,Ovid
+SR00019,Establish method loss hard international court change.,2003,JAMA,43,Children,behavioral therapy,standard care,weight loss,1.17,1.03,1.42,Critically Low,LOVE
