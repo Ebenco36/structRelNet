@@ -52,3 +52,8 @@ instance/
 .env
 .venv/
 .DS_Store
+
+data/processed/
+data/raw/
+checkpoints/
+data/systematic_reviews_20k.csv
